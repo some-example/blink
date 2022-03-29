@@ -1,0 +1,14 @@
+{
+  "registries": [
+    {
+      "kind": "artifact",
+      "name": "msft",
+      "location": "https://github.com/microsoft/vcpkg-ce-catalog/archive/refs/heads/metadata-changes.zip"
+    }
+  ],
+  "requires": {
+    "msft:tools/espressif/idf": "* 1.10.2",
+    "msft:system/python": "3.0.0",
+    "msft:system/git": "2.0.0"
+  }
+}
