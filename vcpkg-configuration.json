@@ -3,7 +3,7 @@
      {
       "kind": "artifact",
       "name": "espressif",
-      "location": "C:/work/2022/espressif"
+      "location": "https://github.com/fearthecowboy/registries/releases/download/espressif-idf-1.10/Espressif.zip"
     }
   ],
   "requires": {
